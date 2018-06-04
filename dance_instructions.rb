@@ -22,6 +22,7 @@ def Skip_Step_Left
 end
 def Skip_Step_Right
   puts "Lower right foot to the ground"
+  puts "Bounce right foot back up slightly, kicking it a few inches back"
   puts ""
 def Lasso_And_Skip-Steps_Eight Times
  puts "Start arm movement by holding left arm so the back of your wrist is near your chin, pointing your left elbow straight left."

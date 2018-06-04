@@ -16,4 +16,5 @@ def Bob_The_Reins_And_Skip-Steps_Eight_Times
   puts "Lift your arms up and down in a loose bouncing movement, in time with the beat of the song. This movement is repeated eight times."
 end
 def Lasso_And_Skip-Steps_Eight Times
+ puts "Start arm movement by holding left arm so the back of your wrist is near your chin, pointing your left elbow straight left."
  puts ""

@@ -23,8 +23,31 @@ end
 def Skip_Step_Right
   puts "Lower right foot to the ground"
   puts "Bounce right foot back up slightly, kicking it a few inches back"
-  puts ""
-def Lasso_And_Skip-Steps_Eight Times
+  puts "Right, Left, Right and Right"
+end
+def Lasso
  puts "Start arm movement by holding left arm so the back of your wrist is near your chin, pointing your left elbow straight left."
  puts "Lift right arm up and point right elbow diagonally to the right."
  puts "Raise right forearm so that it points straight up, and whip it in small circles to the beat of the song, as if you were a cowboy holding a rope lasso. This movement is repeated eight times as well."
+ end
+ Assume_Stance
+ Bust_A_Move
+ Footwork
+ Bob_The_Reins
+ Skip_Step_Right
+ Skip_Step_Left
+ Skip_Step_Right
+ Skip_Step_Left
+ Skip_Step_Right
+ Skip_Step_Left
+ Skip_Step_Right
+ Skip_Step_Left
+ Lasso
+ Skip_Step_Right
+ Skip_Step_Left
+ Skip_Step_Right
+ Skip_Step_Left
+ Skip_Step_Right
+ Skip_Step_Left
+ Skip_Step_Right
+ Skip_Step_Left

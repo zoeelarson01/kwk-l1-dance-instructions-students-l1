@@ -1,13 +1,16 @@
-def Assume Stance
+def Assume_Stance
   puts "Plant legs far apart, bend knees slightly and keep posture loose"
 end
-def Bust A Move
-  puts
+def Bust_A_Move
+  puts "Be cool"
+  puts "Be snazzy!"
 end
 def Footwork
-  puts
+  puts "Lift right foot"
+  puts "Return right foot to the ground"
+  puts "Finish with a small skip-step backward"
 end
-def Bob The Reins And Skip-Steps Eight Times 
-  puts
+def Bob_The_Reins_And_Skip-Steps_Eight_Times 
+  puts "Holding "
 end
-def Lasso And Skip-Steps Eight Times
+def Lasso_And_Skip-Steps_Eight Times

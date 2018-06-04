@@ -12,6 +12,8 @@ def Footwork
 end
 def Bob_The_Reins_And_Skip-Steps_Eight_Times 
   puts "Holding your arms out in front of you, straight and at chest level"
+  puts "Cross your right wrist over your left and hold them together"
   puts ""
+  
 end
 def Lasso_And_Skip-Steps_Eight Times

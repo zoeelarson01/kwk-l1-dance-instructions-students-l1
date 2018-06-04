@@ -11,6 +11,7 @@ def Footwork
   puts "Finish with a small skip-step backward"
 end
 def Bob_The_Reins_And_Skip-Steps_Eight_Times 
-  puts "Holding "
+  puts "Holding your arms out in front of you, straight and at chest level"
+  puts ""
 end
 def Lasso_And_Skip-Steps_Eight Times

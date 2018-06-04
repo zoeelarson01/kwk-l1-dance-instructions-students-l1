@@ -1,5 +1,5 @@
 def Assume Stance
-  puts 
+  puts "Plant legs far apart, bend knees slightly and keep posture loose"
 end
 def Bust A Move
   puts

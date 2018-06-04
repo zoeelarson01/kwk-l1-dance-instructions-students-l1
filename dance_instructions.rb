@@ -17,6 +17,7 @@ def Bob_The_Reins
 end
 def Skip Step Left
   puts "Lower left foot to the ground"
+  puts "Bounce left foot back up slightly, kicking it a few inches back"
   puts ""
 end
 def Lasso_And_Skip-Steps_Eight Times

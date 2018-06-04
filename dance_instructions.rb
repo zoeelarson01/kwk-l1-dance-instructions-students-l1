@@ -41,9 +41,9 @@ def lasso
  bust_a_move
  footwork
  bob_the_reins
- Skip_Step_Right
- Skip_Step_Left
- Skip_Step_Right
+ skip_step_right
+ skip_step_left
+ skip_step_right
  Skip_Step_Left
  Skip_Step_Right
  Skip_Step_Left

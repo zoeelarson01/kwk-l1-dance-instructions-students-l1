@@ -44,17 +44,17 @@ def lasso
  skip_step_right
  skip_step_left
  skip_step_right
- Skip_Step_Left
- Skip_Step_Right
- Skip_Step_Left
- Skip_Step_Right
- Skip_Step_Left
- Lasso
- Skip_Step_Right
- Skip_Step_Left
- Skip_Step_Right
- Skip_Step_Left
- Skip_Step_Right
- Skip_Step_Left
- Skip_Step_Right
- Skip_Step_Left
+ skip_step_left
+ skip_step_right
+ skip_step_left
+ skip_step_right
+ skip_step_left
+ lasso
+ skip_step_right
+ skip_step_left
+ skip_step_right
+ skip_step_left
+ skip_step_right
+ skip_step_left
+ skip_step_right
+ skip_step_left

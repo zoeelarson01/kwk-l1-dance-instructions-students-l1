@@ -16,6 +16,7 @@ def Bob_The_Reins
   puts "Lift your arms up and down in a loose bouncing movement, in time with the beat of the song. This movement is repeated eight times."
 end
 def Skip Step Left
+  puts "Lower left foot to the ground"
   puts ""
 end
 def Lasso_And_Skip-Steps_Eight Times
